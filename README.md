@@ -1,12 +1,9 @@
 # Impact-of-Phase-Noise-on-OFDM
 UCLA_EE 209AS_SPRING 2017_Project
 
-=====================================================
-209AS Project
-OFDM Systems:Impact of Phase Noise on OFDM
-Author: Silei Ma & Pedro Vazquez Sierra 
-======================================================
-
+# 209AS Project
+# OFDM Systems:Impact of Phase Noise on OFDM
+# Author: Silei Ma & Pedro Vazquez Sierra 
 
 Contents
 
